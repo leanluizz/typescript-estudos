@@ -1,0 +1,1 @@
+const SN : (string | number) = 1 || "" // Type string or number 
